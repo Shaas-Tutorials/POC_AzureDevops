@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="sqlconnectionstring-Web.config Connection String" description="sqlconnectionstring Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:webapiprojecttestserver.database.windows.net,1433;Initial Catalog=WebApiProjectTestSQL;Persist Security Info=False;User ID=kartiksharma7;Password=Redhat#123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Workspace\\Test\\WebApiProject\\WebApiProject\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='sqlconnectionstring']/@connectionString" />
+  </parameter>
+</parameters>
