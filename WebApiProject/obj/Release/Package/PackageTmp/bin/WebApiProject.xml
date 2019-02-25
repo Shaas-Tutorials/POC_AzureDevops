@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApiProject</name>
+    </assembly>
+    <members>
+        <member name="M:WebApiProject.Controllers.EmployeeController.GetAllEmployees">
+            <summary>
+            Retrieves all values from the list of employees
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApiProject.Controllers.EmployeeController.GetEmployeeDetails(System.Int32)">
+            <summary>
+            Retrieves one value from the list of employees
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
